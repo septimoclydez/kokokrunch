@@ -1,0 +1,19 @@
+body{
+	margin:0;
+	padding: 0;
+	background:#000;
+}
+
+p {
+	font-size: 12px;
+	line-height: 12px;
+	text-align: justify;
+
+	/* Background Image Settings */
+	background: url(aira.jpg) no-repeat center center;
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
